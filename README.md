@@ -142,27 +142,37 @@ Business Insights & Recommendations
 # 📁 Repository Structure
 
 ```text
+## 📁 Repository Structure
+
+```text
 Quantium-Retail-Analytics/
 │
-├── data/
-│   └── QVI_data.csv
+├── Task 1 - Customer & Product Analysis/
+│   ├── Dataset/
+│   │   └── QVI_data.csv
+│   │
+│   ├── Notebook/
+│   │   └── Task1_Customer_Product_Analysis.ipynb
+│   │
+│   └── Stock/
+│       └── Task1 Outputs & Visualizations
 │
-├── notebooks/
-│   ├── Task1_Customer_Product_Analysis.ipynb
-│   └── Task2_Trial_Store_Analysis.ipynb
+├── Task 2 - Trial Store Analysis/
+│   ├── Dataset/
+│   │   └── QVI_data.csv
+│   │
+│   ├── Notebook/
+│   │   └── Task2_Trial_Store_Analysis.ipynb
+│   │
+│   └── Stock/
+│       └── Trial Analysis Outputs & Visualizations
 │
-├── images/
-│   ├── sales_by_lifestage.png
-│   ├── brand_analysis.png
-│   ├── pack_size_analysis.png
-│   ├── trial_vs_control_sales.png
-│   └── customer_distribution.png
-│
-├── reports/
+├── Presentation/
 │   └── Quantium_Final_Presentation.pdf
 │
 └── README.md
 ```
+
 
 ---
 
